@@ -21,3 +21,6 @@ const tuPerro = new Perro('Bella', 'Beagle');
 // Llamando a los métodos de nuestros objetos
 miPerro.ladrar();
 tuPerro.presentarse();
+//segundo commit
+
+
